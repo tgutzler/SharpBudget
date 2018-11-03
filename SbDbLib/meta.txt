@@ -1,0 +1,18 @@
+Accounts
+1: Joint
+3: Lizzy Choice
+4: Lizzy Reward
+5: Tom Main
+6: Tom Reward
+7: 28 Deg
+8: NZ Joint
+
+AccountTrans
+accountKey -> Accounts
+transType
+0: SetBalance
+1: Expense
+2: Income
+3: transfer out
+4: transfer in
+transKey -> transType.key
